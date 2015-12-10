@@ -1,0 +1,69 @@
+/* div{
+	position:absolute;
+     width:300px;
+     height:200px;
+     z-index:15;
+     top:20%;
+     left:30%;
+     margin:auto;
+} */
+
+h1 {
+	font-family:"Lucida Console", Monaco, monospace;
+	color: blue;
+}
+
+.navbar-brand img
+{
+    max-height: 100%;
+}
+
+/* .navbar .brand {
+    max-height: 40px;
+    overflow: visible;
+    padding-top: 0;
+    padding-bottom: 0;
+} */
+
+#dropbox {
+	font-family:Arial, Helvetica, sans-serif;
+	margin-left: 3cm;
+	margin-right: 5cm;
+	margin-top: 1cm;
+	text-align:center;
+}
+
+#upload {
+	float:left;
+	text-align:left;
+	margin-bottom:1cm;
+}
+
+#upload-button {
+	float: right;
+	margin-right: 6cm;
+}
+
+table {
+	margin-left: 5cm;
+	margin-right: 5cm;
+	font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+tr {
+	line-height: 40px; 
+}
+
+th, td {
+	font-family: Arial, Helvetica, sans-serif;
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+	font-weight: bold;
+	color: green;
+}
