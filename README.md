@@ -3,7 +3,7 @@ ngn_final_project
 
 Box: A Dropbox-like file hosting service
 
-Link: http://ngnbox-env.elasticbeanstalk.com/S3Servlet
+Link: http://ngnbox-env.elasticbeanstalk.com/login.jsp
 
 
 In this project, we did a cloud-based file hosting system with some cool functions. We used popular Bootstrap to build our frontend framework and AWS S3 as our cloud server, other language or techniques we used are HTML5, CSS, Javascript and Jquery for frontend; Java Servlet, Amazon S3/RDS for backend. 
